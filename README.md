@@ -1,3 +1,5 @@
 # Resources
 Resources of android development </br>
-Links to courses </br>
+1) Git & GitHub cheatsheet </br>
+
+
