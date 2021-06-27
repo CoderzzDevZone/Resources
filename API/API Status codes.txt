@@ -1,0 +1,14 @@
+General API status codes:
+1XX -  informational
+100 - Continue
+101 - Protocol switchingc
+
+2XX-
+
+
+3XX-
+
+
+4XX-
+
+417 - Expectation Failed
